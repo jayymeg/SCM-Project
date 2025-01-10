@@ -18,10 +18,16 @@ Your client has provided a simple HTML form that collects user information, incl
   git clone https://github.com/yourusername/simple-form.git
   cd simple-form
   ```
+![my image](https://github.com/jayymeg/SCM-Project/blob/master/project-2/images/S%201.png)
 
 **Stage the Form File:**
 
 - Place the client's HTML form file (`form.html`) and CSS (`style.css`) in this folder and save.
+
+![my image](https://github.com/jayymeg/SCM-Project/blob/master/project-2/images/S%202.png)
+
+![my image](https://github.com/jayymeg/SCM-Project/blob/master/project-2/images/S%203.png)
+  
 - Use Git to add the `form.html` and `style.css` files to the staging area:
   ```bash
   git add form.html style.css
@@ -40,6 +46,9 @@ Your client has provided a simple HTML form that collects user information, incl
   ```bash
   git push origin main
   ```
+![my image](https://github.com/jayymeg/SCM-Project/blob/master/project-2/images/S%204.png)
+
+![my image](https://github.com/jayymeg/SCM-Project/blob/master/project-2/images/S%205.png)
 
 **Make and Track Changes:**
 
@@ -56,6 +65,9 @@ Your client has provided a simple HTML form that collects user information, incl
   ```bash
   git push origin main
   ```
+![my image](https://github.com/jayymeg/SCM-Project/blob/master/project-2/images/S%206.png)
+
+![my image](https://github.com/jayymeg/SCM-Project/blob/master/project-2/images/S%207.png)
 
 **View the Project’s History:**
 
@@ -63,6 +75,8 @@ Your client has provided a simple HTML form that collects user information, incl
   ```bash
   git log
   ```
+
+![my image](https://github.com/jayymeg/SCM-Project/blob/master/project-2/images/S%208.png)
 
 **Revert to a Previous Version:**
 
@@ -97,6 +111,7 @@ Your client has provided a simple HTML form that collects user information, incl
   ```bash
   git push origin main
   ```
+![my image](https://github.com/jayymeg/SCM-Project/blob/master/project-2/images/S%209.png)
 
 **Undoing Local Changes:**
 
@@ -104,7 +119,7 @@ Your client has provided a simple HTML form that collects user information, incl
   ```bash
   git checkout -- style.css
   ```
-
+![my image](https://github.com/jayymeg/SCM-Project/blob/master/project-2/images/S%2010.png)
 **Pulling Updates from GitHub:**
 
 - If there are changes made by others in the GitHub repository, you can pull those changes into your local repository:
