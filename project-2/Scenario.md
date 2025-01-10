@@ -126,3 +126,12 @@ Your client has provided a simple HTML form that collects user information, incl
   ```bash
   git pull origin main
   ```
+**Outcome:**
+By completing these tasks, you will learn how to:
+
+- Clone an existing GitHub repository to your local machine.
+- Track changes using commits.
+- Push and pull changes to and from GitHub.
+- Revert files to previous versions in case of errors.
+- Manage different features with branching.
+- Undo unwanted changes before committing.
